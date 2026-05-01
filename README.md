@@ -1,7 +1,7 @@
 # 📊 Customer Behavior Analysis Dashboard
 
 <p align="center">
-  <img src="dashboard.png" width="800"/>
+  <img src="Dashboard.png" width="800"/>
 </p>
 
 ---
@@ -15,9 +15,18 @@ It provides insights into customer demographics, product preferences, and subscr
 
 ## 🛠 Tools & Technologies
 
-![Power BI](https://img.shields.io/badge/Tool-PowerBI-00E5FF)
+
+![Libraries](https://img.shields.io/badge/Libraries-Pandas-150458)
+![NumPy](https://img.shields.io/badge/Library-NumPy-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-11557c)
+![Seaborn](https://img.shields.io/badge/Library-Seaborn-4C72B0)
+
 ![SQL](https://img.shields.io/badge/Analysis-SQL-7C4DFF)
 ![EDA](https://img.shields.io/badge/Analysis-EDA-purple)
+
+
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-00E5FF)
+
 ![Dashboard](https://img.shields.io/badge/Skill-Dashboard%20Design-00E5FF)
 ![Excel](https://img.shields.io/badge/Tool-Excel-217346)
 
