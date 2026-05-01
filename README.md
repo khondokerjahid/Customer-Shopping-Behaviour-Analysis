@@ -83,12 +83,18 @@ Customer transaction dataset including:
 
 ---
 
-## 💡 What I Learned
+## 💡 What You Will Learn
+
 
 * Data visualization best practices
 * Dashboard UI/UX design (Neon Theme)
 * Customer segmentation techniques
 * SQL-based data analysis
+> And Also
+* Virtual environment create for python in VS Code
+* Jupyter Notebook to Mysql Database Connections
+* MySql Database to PowerBi Connection Via ODBC
+> You can  get touch  real industry level excperience when you open the business problem file.
 
 ---
 
